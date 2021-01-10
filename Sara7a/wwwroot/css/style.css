@@ -1,0 +1,8 @@
+﻿.navbar {
+    background-color: blueviolet !important;   
+}
+.navbar * {
+    background-color: blueviolet !important;   
+    padding-left: 5px !important;
+    
+}
